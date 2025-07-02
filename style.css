@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background: #f9fafb;
+  color: #111827;
+}
+input, button {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
